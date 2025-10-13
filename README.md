@@ -3,63 +3,97 @@
 <h1 align="center">Hi 👋 I'm Tanishq Nanavati</h1>
 
 <p align="center">
-  <strong>Full Stack Developer | Tech Enthusiast | Problem Solver</strong>
+  <strong>Full Stack Developer | Problem Solver | Tech Enthusiast</strong>
 </p>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=TanishqNanavati.TanishqNanavati" alt="Profile Views" />
 </p>
 
-
-<!-- <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=Mustansir101&theme=flat&margin-w=5" height="120" alt=""  />
-</div> -->
-
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=Mustansir101" height="220" alt=""  />
+  <img src="https://github-trophies.vercel.app/?username=TanishqNanavati&theme=darkhub&margin-w=8" height="220" alt="GitHub Trophies" />
 </div>
+
+---
 
 ## 🚀 About Me
 
-- 🌱 Currently mastering **advanced web development concepts** and exploring **modern JavaScript frameworks**
-- 💡 Passionate about **building scalable applications** and **discussing tech startups**
-- 🎯 Always eager to collaborate on innovative projects and open-source contributions
-- 📧 Reach out: **agasi.mustansir@gmail.com**
+- 🎓 **B.E. Computer Science** student at **PICT, Pune** (2023–2027) — CGPA: **9.83**
+- 💻 Passionate **Full Stack Developer (MERN)** with a focus on scalable, high-performance web applications
+- ⚙️ Exploring **systems programming, socket development**, and **DevOps tools**
+- 💡 Love solving challenging DSA problems — **450+** solved on LeetCode & GeeksforGeeks
+- 🎯 Always eager to collaborate on **open-source** and **hackathon projects**
+- 📧 Reach out: **tanishqnanavati3@gmail.com**
+
+---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,redux" alt="Frontend Skills" />
+### 💻 Web Development
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,tailwind,redux" alt="Web Dev Skills" />
 
-### Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,mysql,graphql,redis" alt="Backend Skills" />
+### 🧠 Programming & Problem Solving
+<img src="https://skillicons.dev/icons?i=js,cpp,python" alt="Languages" />
 
-### Tools & Others
-<img src="https://skillicons.dev/icons?i=docker,git,github" alt="Tools" />
-<img src="https://cdn.simpleicons.org/postman/FF6C37" height="48" alt="postman" />
+### ⚙️ Tools & DevOps
+<img src="https://skillicons.dev/icons?i=git,github,postman,docker" alt="Tools" />
 
 </div>
+
+---
+
+## 🧩 Projects
+
+### 🗨️ [Quick Chat](https://github.com/TanishqNanavati/QuickChat)
+> A real-time full-stack **MERN** chat app with **Socket.IO**, JWT-based authentication, Cloudinary integration, and modular architecture.
+
+### 🏥 [Prescripto](https://github.com/TanishqNanavati/Prescripto)
+> Full-stack hospital management system with **user & doctor authentication**, appointment scheduling, and real-time updates.
+
+### 💬 AsioChat (C++, Boost.Asio)
+> A TCP-based multi-client chatroom using **Boost.Asio**, supporting concurrent connections and asynchronous message handling.
+
+### 🌐 Proxy Server with LRU Cache (C/C++)
+> Implemented a **multi-threaded proxy server** with a **custom LRU cache** to minimize redundant HTTP requests.
+
+---
+
+## 🏆 Achievements & Activities
+
+- 🧩 **Hackathons:** Participated in **Adobe Hackathon** and **Barclays Hack-o-Hire**
+- 📚 **Certifications:**  
+  - *Full Stack Web Development* by **Angela Yu** (Udemy)
+- ⭐ **3★ Coder** on **CodeChef**, with 100+ problems solved
+- 💪 Solved **450+ DSA problems** on **LeetCode** and **GeeksforGeeks**
+
+---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=TanishqNanavati&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=TanishqNanavati&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=TanishqNanavati&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
+---
 
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tanishq-nanavati-4aa0282b0/">
+  <a href="https://www.linkedin.com/in/tanishqnanavati3/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:tanishqnanavati3@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://leetcode.com/u/tanishqnanavati3/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  <a href="https://github.com/TanishqNanavati">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
-
-<p align="center">💭 <em>"Always learning, always coding"</em></p>
+<p align="center">💭 <em>"Code. Learn. Repeat."</em></p>
