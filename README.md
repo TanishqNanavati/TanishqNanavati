@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mustansir101.Mustansir101" alt="Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=TanishqNanavati.TanishqNanavati" alt="Profile Views" />
 </p>
 
 
