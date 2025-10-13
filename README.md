@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋 I'm Tanishq Nanavati</h1>
 
 <p align="center">
-  <strong>Full Stack Developer | Problem Solver | Tech Enthusiast</strong>
+  <strong>Full Stack Developer | Problem Solver | Tech Enthusiast | Newtworking | System Programming</strong>
 </p>
 
 <p align="center">
@@ -17,11 +17,8 @@
 ---
 
 ## 🚀 About Me
-
-- 🎓 **B.E. Computer Science** student at **PICT, Pune** (2023–2027) — CGPA: **9.83**
 - 💻 Passionate **Full Stack Developer (MERN)** with a focus on scalable, high-performance web applications
 - ⚙️ Exploring **systems programming, socket development**, and **DevOps tools**
-- 💡 Love solving challenging DSA problems — **450+** solved on LeetCode & GeeksforGeeks
 - 🎯 Always eager to collaborate on **open-source** and **hackathon projects**
 - 📧 Reach out: **tanishqnanavati3@gmail.com**
 
@@ -59,14 +56,6 @@
 > Implemented a **multi-threaded proxy server** with a **custom LRU cache** to minimize redundant HTTP requests.
 
 ---
-
-## 🏆 Achievements & Activities
-
-- 🧩 **Hackathons:** Participated in **Adobe Hackathon** and **Barclays Hack-o-Hire**
-- 📚 **Certifications:**  
-  - *Full Stack Web Development* by **Angela Yu** (Udemy)
-- ⭐ **3★ Coder** on **CodeChef**, with 100+ problems solved
-- 💪 Solved **450+ DSA problems** on **LeetCode** and **GeeksforGeeks**
 
 ---
 
