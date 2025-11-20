@@ -31,21 +31,32 @@ These days, I'm diving deeper into:
 - ⚡ High-performance backend systems  
 - 🧵 Multithreaded servers & socket programming  
 - 🐳 DevOps pipelines (Docker, CI/CD)  
-- 🧠 Increasing my skills in clean architecture & scalable design
+- 🧠 Clean architecture & scalable design
 
 ---
 
 ## ⚡ Projects
 
-<h3><img height="34" src="https://cdn.simpleicons.org/react" /> Web / MERN</h3>
+### <img height="34" src="https://cdn.simpleicons.org/react" /> **Web / MERN / Full-Stack**
 
-- **[QuickChat](https://github.com/TanishqNanavati/QuickChat)** – Real-time MERN chat app with Socket.IO, Cloudinary, JWT auth, and modular architecture.
-- **[Prescripto](https://github.com/TanishqNanavati/Prescripto)** – Full-stack hospital management system with doctor/patient auth, appointments & real-time updates.
+- QuickChat  
+- Prescripto  
+- Saasify (Next.js SaaS Boilerplate)  
+- VidAI (Full-stack React + Express)  
+- Reels_Pro (Next.js)  
+- SnipPaste (React Notes App)  
 
-<h3><img height="34" src="https://cdn.simpleicons.org/C" /> System / Network Programming</h3>
+---
 
-- **AsioChat (C++, Boost.Asio)** – A multi-client TCP chatroom using async message handling & concurrent connections.
-- **Proxy Server with LRU Cache (C/C++)** – Multi-threaded HTTP proxy with a custom LRU cache for intelligent request optimization.
+### <img height="34" src="https://cdn.simpleicons.org/C" /> **System / OS / Network Programming (C / C++ / OS)**
+
+- TCP/IP Packet Sniffer (Raw Sockets)  
+- LiteDNS (DNS Server in C)  
+- CryptoStream (File Encryption/Decryption)  
+- Fermion (Minimal OS / Kernel)  
+- Proxy Web Server in C  
+- AsioChat (Boost.Asio TCP Chatroom)  
+- LRU Proxy Cache Implementation  
 
 ---
 
@@ -53,13 +64,13 @@ These days, I'm diving deeper into:
 
 <div align="center">
 
-### 🧠 Languages
+### 🧠 Languages  
 <img src="https://skillicons.dev/icons?i=js,cpp,python,c" />
 
-### 💻 Web Development
+### 💻 Web Development  
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,redux,tailwind" />
 
-### ⚙️ Tools & DevOps
+### ⚙️ Tools & DevOps  
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
 
 </div>
