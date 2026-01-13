@@ -41,22 +41,16 @@ These days, I'm diving deeper into:
 
 - QuickChat  
 - Prescripto  
-- Saasify (Next.js SaaS Boilerplate)  
-- VidAI (Full-stack React + Express)  
-- Reels_Pro (Next.js)  
-- SnipPaste (React Notes App)  
-
+- Saasify (Next.js SaaS)   
+- Signalist (Nextjs)
 ---
 
 ### <img height="34" src="https://cdn.simpleicons.org/C" /> **System / OS / Network Programming (C / C++ / OS)**
 
 - TCP/IP Packet Sniffer (Raw Sockets)  
-- LiteDNS (DNS Server in C)  
 - CryptoStream (File Encryption/Decryption)  
-- Fermion (Minimal OS / Kernel)  
-- Proxy Web Server in C  
-- AsioChat (Boost.Asio TCP Chatroom)  
-- LRU Proxy Cache Implementation  
+- Statedul Firewall (in C)
+- User ThreadLib (in C) 
 
 ---
 
