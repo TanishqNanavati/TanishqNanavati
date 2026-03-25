@@ -18,8 +18,8 @@
 
 - Languages: JavaScript, C++, C, Python
 - Frontend: React, Next.js, Tailwind CSS
-- Backend: Node.js, Express, REST APIs
-- Databases: MongoDB
+- Backend: Node.js, Express, REST APIs, FAST APIs
+- Databases: MongoDB, Supabase, MySql
 - Systems: Sockets, Multithreading, OS Concepts
 - Tools & DevOps: Git, Docker, Postman, GitHub
 
