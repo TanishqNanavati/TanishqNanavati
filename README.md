@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Tanishq Nanavati</h1> <p align="center"> <strong>Full Stack Developer | Systems Programming Enthusiast</strong> </p> <p align=""> I am a Full Stack Developer passionate about building scalable web applications and high-performance backend systems. I enjoy working close to the system — exploring networking, multithreaded servers, and C/C++ internals — while also building modern MERN and Next.js applications. </p>
+<h1 align="center">Hi 👋 I'm Tanishq Nanavati</h1> <p align="center"> <strong>Full Stack Developer | Systems Programming | Networking</strong> </p> <p align=""> I am a Full Stack Developer passionate about building scalable web applications and high-performance backend systems. I enjoy working close to the system — exploring networking, multithreaded servers, and C/C++ internals — while also building modern MERN and Next.js applications. </p>
 
 ### 🚀 About Me
 
