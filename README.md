@@ -37,6 +37,7 @@ I am a Full Stack Developer and AI Engineer passionate about building scalable w
 - Python
 - C++
 - C
+- Go
 
 ### 🎨 Frontend
 - React
